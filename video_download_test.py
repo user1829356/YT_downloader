@@ -3,11 +3,7 @@ import yt_dlp
 # Paste your 6 YouTube links here
 video_urls = [
     "https://www.youtube.com/watch?v=GhskWGhO83Y",
-   # "https://www.youtube.com/watch?v=oe3Jn6FRoII",
-   # "https://www.youtube.com/watch?v=VloXc0Tyi4R4",
-   # "https://www.youtube.com/watch?v=5u9u8yzPEpA",
-   # "https://www.youtube.com/watch?v=IuoscQiQQLg",
-   # "https://www.youtube.com/watch?v=-B96nN9N6rs"
+   # add more URL to download
 ]
 
 # yt-dlp options
